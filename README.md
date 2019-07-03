@@ -7,8 +7,9 @@ directory:_own
 form.php
 入力フォーム（view側）
 
-sendMail.php
+sendMail.php←課題用提出ソース
 ファンクション
+/*　こちらをご確認ください */
 
 done.html
 メール送信後の遷移ページ
