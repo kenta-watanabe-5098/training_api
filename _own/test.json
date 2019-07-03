@@ -1,0 +1,12 @@
+{
+    "dest":"info2@tokyo.supersoftware.co.jp",
+    "subject":"【Webフォーム】",
+    "body":"氏名:テスト\nフリガナ:\nEmail:test@test.com\nTEL:03-213\nリード:\n自由記入:",
+    "attachments":
+      [
+        [
+          "経歴書AK.xlsx",
+          "data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,UEsDBBQABgAIAAAAIQBBN4LPbgEAAAQFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIo .... "
+        ]
+      ]
+  }
